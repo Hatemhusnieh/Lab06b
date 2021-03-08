@@ -1,0 +1,34 @@
+#mainHeader{
+    color: #FCD500;
+    font-family: 'Lucida Sans',fantasy;
+    font-size: 40pt;
+    text-align: center;
+    height: 20px;
+    padding: 5px;
+}
+header{
+    background-color: #D84200;
+    border: 10px double #F2E300;
+    
+}
+
+body{
+    background-color: #6D68A6;
+}
+
+.footer{
+    background-color: cornsilk;
+    position:relative;
+    bottom: 0%;
+    width: 100%;
+    height: 2.2rem; 
+}
+
+#ft li{
+    list-style: none;
+    display: inline;
+    margin-right: 30px;
+}
+#ft li a{
+text-decoration: none;
+}
